@@ -4545,6 +4545,11 @@ js-yaml@^3.13.0, js-yaml@^3.13.1, js-yaml@^3.9.1:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
+jsbarcode@^3.5.8:
+  version "3.11.0"
+  resolved "https://registry.npm.taobao.org/jsbarcode/download/jsbarcode-3.11.0.tgz#20623e008b101ef45d0cce9c8022cdf49be28547"
+  integrity sha1-IGI+AIsQHvRdDM6cgCLN9JvihUc=
+
 jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.npm.taobao.org/jsbn/download/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
@@ -6268,6 +6273,11 @@ q@^1.1.2:
   resolved "https://registry.npm.taobao.org/q/download/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc=
 
+qrcode.vue@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.npm.taobao.org/qrcode.vue/download/qrcode.vue-1.6.2.tgz#56446818a4103fac652180fa4a761ff2f39cd0a9"
+  integrity sha1-VkRoGKQQP6xlIYD6SnYf8vOc0Kk=
+
 qs@6.7.0:
   version "6.7.0"
   resolved "https://registry.npm.taobao.org/qs/download/qs-6.7.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fqs%2Fdownload%2Fqs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
@@ -7767,10 +7777,22 @@ vm-browserify@^1.0.1:
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha1-vXbWojMj4sqP+hICjcBFWcdfkBk=
 
+vue-barcode@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.npm.taobao.org/vue-barcode/download/vue-barcode-1.2.0.tgz#e118c38c12a77da9be03e612c60ff6832c9a3a25"
+  integrity sha1-4RjDjBKnfam+A+YSxg/2gyyaOiU=
+  dependencies:
+    jsbarcode "^3.5.8"
+
 vue-cli-plugin-codemirror@^0.0.6:
   version "0.0.6"
   resolved "https://registry.npm.taobao.org/vue-cli-plugin-codemirror/download/vue-cli-plugin-codemirror-0.0.6.tgz#ccc884bfe4b96eb453379d604fe10ba902b9b4fa"
   integrity sha1-zMiEv+S5brRTN51gT+ELqQK5tPo=
+
+vue-cli-plugin-element@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/vue-cli-plugin-element/download/vue-cli-plugin-element-1.0.1.tgz#34e58fb65b36cf59afaf14f503288e5e578b1554"
+  integrity sha1-NOWPtls2z1mvrxT1AyiOXleLFVQ=
 
 vue-codemirror@^4.0.5:
   version "4.0.6"
