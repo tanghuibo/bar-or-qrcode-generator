@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "element-ui": "^2.4.5",
+    "postcss-loader": "^3.0.0",
     "qrcode.vue": "^1.6.2",
     "vue": "^2.6.10",
     "vue-barcode": "^1.2.0",
