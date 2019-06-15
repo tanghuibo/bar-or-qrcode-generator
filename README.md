@@ -1,29 +1,9 @@
 # bar-or-qrcode-generator
 
-## Project setup
-```
-yarn install
-```
+## 二维码 & 条形码生成器
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### 通过选中字符串生成条形码或二维码
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+demo地址: [https://tanghuibo.github.io/bar-or-qrcode-generator/](https://tanghuibo.github.io/bar-or-qrcode-generator/)
 
-### Run your tests
-```
-yarn run test
-```
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
