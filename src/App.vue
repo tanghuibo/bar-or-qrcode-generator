@@ -11,6 +11,7 @@
             mode: 'text/javascript',
             theme: 'eclipse',
             lineNumbers: true,
+            lineWrapping: true,
             line: true
           }"
           style="padding-right: 30px"
